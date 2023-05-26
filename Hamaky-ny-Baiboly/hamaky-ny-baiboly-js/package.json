@@ -1,0 +1,28 @@
+{
+  "name": "hamaky-ny-baiboly",
+  "version": "1.0.0",
+  "description": "Module Javascript izay ahafahanao mamaky ny teny avy amin'ny Soratra Masina voarakitra ao amin'ny Baiboly Protestanta Malagasy",
+  "main": "hamaky-ny-baiboly.js",
+  "scripts": {
+    "test": "node hamaky-ny-baiboly.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambatra-Andriamihaja/FJKM.git"
+  },
+  "keywords": [
+    "baiboly",
+    "vakiteny",
+    "malagasy",
+    "madagasikara"
+  ],
+  "author": "Sambatra Andriamihaja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sambatra-Andriamihaja/FJKM/issues"
+  },
+  "homepage": "https://github.com/Sambatra-Andriamihaja/FJKM#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
